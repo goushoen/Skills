@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Email P0/P1 Digest"
+  short_description: "Daily Outlook triage into multilingual P0/P1 actions with Feishu delivery."
+  default_prompt: "Summarize today’s Outlook email into P0/P1 actions, ask me which Feishu message language to use, and send it to Feishu."
